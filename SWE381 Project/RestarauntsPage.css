@@ -1,0 +1,58 @@
+
+.secondary-font-2 {
+
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: bold!important;
+    font-size: 4rem!important;
+
+
+}
+
+
+.btn3 {
+    
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px 45px;
+    background-color: #0c7f90;
+    color: #ffffff;
+    border-radius: 15px;
+    -webkit-transition: all 0.3s;
+    transition: all 5.3s;
+    border: none;
+    
+
+}
+
+.edit {
+    
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px 45px;
+    background-color: #008a00;
+    color: #ffffff;
+    border-radius: 15px;
+    -webkit-transition: all 0.3s;
+    transition: all 5.3s;
+    border: none;
+    
+
+}
+
+.remove {
+    
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 10px 45px;
+    background-color: #ad0000;
+    color: #ffffff;
+    border-radius: 15px;
+    -webkit-transition: all 0.3s;
+    transition: all 5.3s;
+    border: none;
+    
+
+}
